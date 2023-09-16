@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "math-helpers-arithmetics": "^0.0.1",
     "next": "^13.4.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "ui": "workspace:*",
-    "math-helpers": "workspace:*"
+    "ui": "workspace:*"
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^13.4.19",

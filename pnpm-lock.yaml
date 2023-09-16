@@ -63,8 +63,8 @@ importers:
 
   apps/web:
     dependencies:
-      math-helpers:
-        specifier: workspace:*
+      math-helpers-arithmetics:
+        specifier: ^0.0.1
         version: link:../../packages/math-helpers
       next:
         specifier: ^13.4.19

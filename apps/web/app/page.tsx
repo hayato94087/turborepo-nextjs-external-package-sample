@@ -1,4 +1,4 @@
-import { add } from "math-helpers";
+import { add } from "math-helpers-arithmetics";
 
 export default function Page(): JSX.Element {
   return (
