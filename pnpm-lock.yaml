@@ -64,7 +64,7 @@ importers:
   apps/web:
     dependencies:
       math-helpers-arithmetics:
-        specifier: ^0.0.1
+        specifier: ^0.0.2
         version: link:../../packages/math-helpers
       next:
         specifier: ^13.4.19
